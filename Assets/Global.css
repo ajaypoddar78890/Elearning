@@ -1,0 +1,22 @@
+:root {
+  --primary-color: #4361ee;
+  --heading-font: Aeonik, sans-serif;
+  --para-font: Aeonik Regular, sans-serif;
+  --button-border-radius: 50px;
+  --light-background-color: rgba(67, 97, 238, 0.1);
+  --section-divider-shape: 250px;
+  --section-padding: 100px 0;
+  --color-background-padding: 80px 0;
+  --box-shadow: 0 0 40px rgba(0, 0, 0, 0.05);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
